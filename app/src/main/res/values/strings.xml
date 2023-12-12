@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lomonadaArq</string>
+    <string name="coger">coge un limone</string>
+    <string name="esprimir">esprimir</string>
+    <string name="beber">que rico la limonada</string>
+    <string name="repetir">volver a empezar</string>
+</resources>
